@@ -1,0 +1,6 @@
+numpy
+pycuda
+nvidia-tensorrt==8.2.1.8
+opencv-python
+onnxruntime-gpu
+
